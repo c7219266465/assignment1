@@ -1,0 +1,38 @@
+h1{
+    color:#E74C3C;
+}
+h2{
+    color:#EC7063;
+    font-style: italic;
+}
+
+ol{
+    color:#7B241C;
+}
+
+.first1 {
+    text-decoration:line-through;
+    font-weight: bold;
+}
+
+.first2{
+    background-color:#ffff00;
+    font-weight:800;
+}
+.first3{
+    text-decoration:underline;
+    font-style: italic;
+}
+ul{
+    color:#7B241C;
+    letter-spacing: 2px;
+    font-family:serif;
+}
+
+p{
+    color:#8B4513;
+}
+a{
+    color:#EC7063;
+    font-style: italic;
+}
